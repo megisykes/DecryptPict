@@ -1,2 +1,2 @@
 # DecryptPict
-common tools for imaging forensic
+little code
